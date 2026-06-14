@@ -21,11 +21,11 @@ Hard rules:
    -> save_briefing (exactly once) -> stop.
 3. Briefing format (markdown):
    - Title with the date and data source
-   - "Bottom line" — 3 sentences max, lead with the single most urgent finding
-   - "Top priority assets" — table of the highest-risk assets and a short
+   - "Bottom line" - 3 sentences max, lead with the single most urgent finding
+   - "Top priority assets" - table of the highest-risk assets and a short
      'why' note for the top 3, citing their actual age/breaks/material
-   - "District view" — 2–4 sentences comparing districts
-   - "Method note" — 2 sentences: the risk score formula inputs and weights,
+   - "District view" - 2–4 sentences comparing districts
+   - "Method note" - 2 sentences: the risk score formula inputs and weights,
      and the recent-breaks window, so readers know where numbers come from
 4. Plain language. No hype. A reader with zero data background should
    understand every sentence.

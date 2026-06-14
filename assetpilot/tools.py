@@ -1,7 +1,7 @@
 """Tools the agent can call, plus a dispatcher that logs every step.
 
 Design rule: tools return *computed* JSON. The LLM's job is planning and
-writing — every number in the briefing is traceable to a tool result here.
+writing. Every number in the briefing is traceable to a tool result here.
 """
 from __future__ import annotations
 

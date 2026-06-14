@@ -1,8 +1,7 @@
-"""Deterministic briefing writer — no API key required.
+"""Deterministic briefing writer. No API key required.
 
 This is both the offline fallback and a baseline to compare the agent
-against: same numbers, template prose. Useful in interviews: "here's what
-the LLM adds on top of the deterministic pipeline."
+against: same numbers, template prose.
 """
 from __future__ import annotations
 
@@ -26,7 +25,7 @@ def build_briefing(source: str = "sample") -> str:
 
     lines: list[str] = []
     lines.append(
-        f"# Asset Condition Briefing — {datetime.now():%B %d, %Y} "
+        f"# Asset Condition Briefing: {datetime.now():%B %d, %Y} "
         f"({source} data)\n"
     )
     lines.append("## Bottom line\n")

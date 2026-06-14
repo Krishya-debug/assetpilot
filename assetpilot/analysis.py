@@ -1,6 +1,6 @@
-"""Deterministic risk analysis. No LLM anywhere in this file — on purpose.
+"""Deterministic risk analysis. No LLM anywhere in this file on purpose.
 
-The agent *cites* these numbers; it never invents them. Risk scoring is
+The agent cites these numbers. Risk scoring is
 plain, testable pandas:
 
     risk = (w_age * age_norm

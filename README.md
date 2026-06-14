@@ -1,28 +1,28 @@
 # AssetPilot
 
 A tool-calling AI agent that triages Ontario infrastructure asset data into
-prioritized, plain-language condition briefings.
+prioritized, conicse condition briefings.
 
 The agent pulls watermain break records (Ontario municipal open data), runs a
 **deterministic** pandas risk model, and writes a briefing a project manager
-can forward — with every number traceable to the analysis layer, never
+can forward, with every number traceable to the analysis layer never
 invented by the LLM. A scheduled GitHub Actions run produces a weekly digest.
 
-## Why it's built this way
+## How AssetPilot is built:
 
-- **The LLM plans and writes; Python computes.** Risk scores come from a
+- *The LLM plans and writes while Python computes.* Risk scores come from a
   plain, unit-tested pandas model (`assetpilot/analysis.py`). The agent's
   system prompt forbids it from using any number that didn't come from a tool
   result, and every run produces a step-by-step `run_log_*.json` for
   transparency.
-- **Runs instantly, degrades gracefully.** Bundled sample data means zero
-  setup; `--live` switches to the real CKAN open data API (cached, with
+- *Runs instantly with or without API key.* Bundled sample data means zero
+  setup. `--live` switches to the real CKAN open data API (cached, with
   retries); `--no-llm` produces a deterministic template briefing with no API
   key at all.
-- **Portal schemas vary, so normalization is config, not code.** Each open
+- *Portal schemas vary, so normalization is config.* Each open
   data portal names columns differently; `COLUMN_MAP` in `config.py` adapts
   any CKAN dataset to the canonical schema, and missing required fields fail
-  loudly with instructions instead of producing a silent garbage analysis.
+  with instructions instead of producing an incorrect analysis.
 
 ## Quickstart
 
@@ -32,7 +32,7 @@ cd assetpilot
 python -m venv .venv && source .venv/bin/activate   # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
 
-# Works immediately — no API key, bundled sample data:
+# Works immediately with no API key, bundled sample data:
 python run.py briefing --no-llm
 
 # Agent-written briefing (set your key first):
@@ -82,8 +82,8 @@ risk = (0.40·age + 0.35·total_breaks + 0.25·recent_breaks)  [min-max normaliz
 Tiers: High ≥ 70, Medium ≥ 40, else Low
 ```
 
-Weights, windows, and material factors are config, not magic numbers — tune
-them in `config.py` and the tests still pin the model's behavior.
+Weights, windows, and material factors are config, and can be tuned
+in `config.py` with the tests still pinning the model's behavior.
 
 ## Live data notes
 
@@ -94,10 +94,10 @@ names differ. Responses are cached in `.cache/` for 24 hours to be polite to
 the portal.
 
 Note: public break datasets often lack per-pipe attributes (material, install
-year); the normalizer fills those with defaults, and the model's
+year). The normalizer fills those with defaults, and the model's
 unknown-attribute handling (median age, neutral material factor) keeps the
-scoring honest. The bundled sample data is synthetic — seeded, labeled, and
-modeled on Ontario municipal records — so the full schema can be demonstrated.
+scoring honest. The bundled sample data is synthetic (seeded, labeled, and
+modeled) based on Ontario municipal records so the full schema can be demonstrated.
 
 ## Scheduled digest (GitHub Actions)
 

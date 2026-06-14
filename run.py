@@ -20,7 +20,7 @@ def make_briefing(source: str, no_llm: bool) -> str:
     """Returns the path of the saved briefing."""
     if no_llm or not config.ANTHROPIC_API_KEY:
         if not no_llm:
-            print("No ANTHROPIC_API_KEY found — falling back to --no-llm mode.")
+            print("No ANTHROPIC_API_KEY found. Falling back to --no-llm mode.")
         path = briefing_mod.save_briefing(source)
         print(f"Deterministic briefing saved: {path}")
         return path
@@ -57,7 +57,7 @@ def main() -> int:
             digest_mod.send_email(digest)
             print(f"Digest emailed to {config.DIGEST_TO}")
         else:
-            print("Email not configured (SMTP_* unset) — digest saved to disk only.")
+            print("Email not configured (SMTP_* unset). Digest saved to disk only.")
     return 0
 
 

@@ -1,8 +1,8 @@
 """Generate the bundled sample dataset (deterministic, seeded).
 
 Synthetic data modeled on Ontario municipal watermain-break records:
-one row per break event. Older cast-iron mains break more often —
-the generator encodes that so the risk model has real signal to find.
+one row per break event. Older cast-iron mains break more often.
+The generator encodes that so the risk model has real signal to find.
 
 Run once: python scripts/generate_sample_data.py
 """

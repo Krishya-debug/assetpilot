@@ -1,6 +1,6 @@
 """Weekly digest: wraps the latest briefing and (optionally) emails it.
 
-If SMTP settings are unset, the digest is written to output/ only — so the
+If SMTP settings are unset, the digest is written to output/ only so the
 scheduled GitHub Actions run works with zero email configuration.
 """
 from __future__ import annotations
@@ -34,7 +34,7 @@ def email_configured() -> bool:
 
 def send_email(digest: str) -> None:
     msg = MIMEText(digest, "plain", "utf-8")
-    msg["Subject"] = f"AssetPilot Weekly Digest — {datetime.now():%Y-%m-%d}"
+    msg["Subject"] = f"AssetPilot Weekly Digest: {datetime.now():%Y-%m-%d}"
     msg["From"] = config.DIGEST_FROM
     msg["To"] = config.DIGEST_TO
 

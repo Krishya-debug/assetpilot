@@ -8,8 +8,7 @@ Two modes:
 
 Live portal schemas vary; ``normalize_columns`` adapts them to AssetPilot's
 canonical schema using ``config.COLUMN_MAP``. If a dataset is missing required
-fields, you get a clear error telling you what to adjust — not a silent
-garbage analysis.
+fields, you get a clear error telling you what to adjust.
 """
 from __future__ import annotations
 
