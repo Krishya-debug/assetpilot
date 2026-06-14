@@ -1,0 +1,439 @@
+asset_id,district,material,diameter_mm,install_year,break_date
+WM-0001,Etobicoke York,Cast Iron,200,1942,1997-09-07
+WM-0001,Etobicoke York,Cast Iron,200,1942,2000-09-06
+WM-0001,Etobicoke York,Cast Iron,200,1942,2005-11-02
+WM-0001,Etobicoke York,Cast Iron,200,1942,2012-03-03
+WM-0001,Etobicoke York,Cast Iron,200,1942,2018-11-25
+WM-0001,Etobicoke York,Cast Iron,200,1942,2024-01-02
+WM-0002,Etobicoke York,Ductile Iron,300,1999,2007-02-20
+WM-0002,Etobicoke York,Ductile Iron,300,1999,2015-04-09
+WM-0002,Etobicoke York,Ductile Iron,300,1999,2021-01-10
+WM-0003,Etobicoke York,PVC,600,1995,2003-08-03
+WM-0004,Scarborough,Cast Iron,150,1949,1998-07-01
+WM-0004,Scarborough,Cast Iron,150,1949,2002-04-27
+WM-0004,Scarborough,Cast Iron,150,1949,2007-05-21
+WM-0004,Scarborough,Cast Iron,150,1949,2009-11-18
+WM-0004,Scarborough,Cast Iron,150,1949,2010-05-02
+WM-0004,Scarborough,Cast Iron,150,1949,2013-03-23
+WM-0005,Toronto & East York,Cast Iron,600,1943,1998-08-18
+WM-0005,Toronto & East York,Cast Iron,600,1943,2006-02-27
+WM-0005,Toronto & East York,Cast Iron,600,1943,2016-05-21
+WM-0005,Toronto & East York,Cast Iron,600,1943,2019-08-02
+WM-0006,Scarborough,Concrete,150,1964,2010-12-17
+WM-0007,Toronto & East York,Ductile Iron,200,1988,2000-08-23
+WM-0008,Etobicoke York,Ductile Iron,400,1975,1997-12-24
+WM-0008,Etobicoke York,Ductile Iron,400,1975,2015-11-01
+WM-0009,Toronto & East York,Cast Iron,600,1965,2006-03-13
+WM-0009,Toronto & East York,Cast Iron,600,1965,2021-04-21
+WM-0009,Toronto & East York,Cast Iron,600,1965,2022-11-14
+WM-0010,Etobicoke York,PVC,250,2010,2015-05-03
+WM-0011,Scarborough,Cast Iron,300,1956,2002-12-02
+WM-0011,Scarborough,Cast Iron,300,1956,2003-01-17
+WM-0011,Scarborough,Cast Iron,300,1956,2012-05-10
+WM-0011,Scarborough,Cast Iron,300,1956,2015-05-20
+WM-0011,Scarborough,Cast Iron,300,1956,2020-07-25
+WM-0011,Scarborough,Cast Iron,300,1956,2020-08-12
+WM-0012,Toronto & East York,Cast Iron,400,1933,2003-06-08
+WM-0012,Toronto & East York,Cast Iron,400,1933,2003-09-17
+WM-0012,Toronto & East York,Cast Iron,400,1933,2014-02-28
+WM-0012,Toronto & East York,Cast Iron,400,1933,2020-10-27
+WM-0012,Toronto & East York,Cast Iron,400,1933,2023-04-17
+WM-0013,Toronto & East York,Ductile Iron,300,1989,2000-03-21
+WM-0014,Etobicoke York,Ductile Iron,600,1972,2021-10-17
+WM-0015,Scarborough,PVC,150,2006,2011-01-04
+WM-0016,Scarborough,Concrete,400,1961,2008-06-22
+WM-0016,Scarborough,Concrete,400,1961,2017-12-16
+WM-0016,Scarborough,Concrete,400,1961,2023-07-05
+WM-0016,Scarborough,Concrete,400,1961,2024-06-19
+WM-0017,North York,Cast Iron,200,1973,1995-03-03
+WM-0017,North York,Cast Iron,200,1973,2015-02-25
+WM-0018,Scarborough,Ductile Iron,250,1972,2021-07-21
+WM-0019,Scarborough,Cast Iron,400,1940,1999-11-05
+WM-0019,Scarborough,Cast Iron,400,1940,2002-06-20
+WM-0019,Scarborough,Cast Iron,400,1940,2013-08-30
+WM-0019,Scarborough,Cast Iron,400,1940,2013-12-15
+WM-0019,Scarborough,Cast Iron,400,1940,2020-12-08
+WM-0019,Scarborough,Cast Iron,400,1940,2021-01-23
+WM-0020,North York,Cast Iron,300,1963,2019-03-24
+WM-0020,North York,Cast Iron,300,1963,2020-10-23
+WM-0020,North York,Cast Iron,300,1963,2024-10-31
+WM-0020,North York,Cast Iron,300,1963,2025-08-17
+WM-0021,Scarborough,Cast Iron,600,1967,1999-08-03
+WM-0021,Scarborough,Cast Iron,600,1967,2006-11-01
+WM-0021,Scarborough,Cast Iron,600,1967,2013-01-02
+WM-0022,Etobicoke York,Ductile Iron,400,1979,1996-01-04
+WM-0022,Etobicoke York,Ductile Iron,400,1979,1999-05-24
+WM-0022,Etobicoke York,Ductile Iron,400,1979,1999-08-15
+WM-0022,Etobicoke York,Ductile Iron,400,1979,2012-04-08
+WM-0023,Etobicoke York,PVC,400,1989,1999-03-29
+WM-0024,North York,PVC,200,2015,2024-09-05
+WM-0024,North York,PVC,200,2015,2024-11-09
+WM-0025,North York,Cast Iron,300,1967,1999-01-30
+WM-0025,North York,Cast Iron,300,1967,2018-02-21
+WM-0025,North York,Cast Iron,300,1967,2018-04-28
+WM-0025,North York,Cast Iron,300,1967,2023-05-10
+WM-0026,Etobicoke York,Ductile Iron,150,1986,1998-08-19
+WM-0026,Etobicoke York,Ductile Iron,150,1986,2000-02-23
+WM-0026,Etobicoke York,Ductile Iron,150,1986,2006-01-30
+WM-0027,Toronto & East York,Cast Iron,200,1954,2001-03-05
+WM-0027,Toronto & East York,Cast Iron,200,1954,2015-06-04
+WM-0027,Toronto & East York,Cast Iron,200,1954,2018-04-16
+WM-0027,Toronto & East York,Cast Iron,200,1954,2022-01-22
+WM-0027,Toronto & East York,Cast Iron,200,1954,2023-03-05
+WM-0028,Etobicoke York,Concrete,200,1965,2011-09-23
+WM-0028,Etobicoke York,Concrete,200,1965,2013-10-30
+WM-0028,Etobicoke York,Concrete,200,1965,2023-05-17
+WM-0029,Etobicoke York,Cast Iron,300,1925,2012-03-14
+WM-0029,Etobicoke York,Cast Iron,300,1925,2013-02-06
+WM-0029,Etobicoke York,Cast Iron,300,1925,2015-10-28
+WM-0029,Etobicoke York,Cast Iron,300,1925,2019-12-03
+WM-0029,Etobicoke York,Cast Iron,300,1925,2025-06-20
+WM-0029,Etobicoke York,Cast Iron,300,1925,2026-04-25
+WM-0030,North York,Cast Iron,150,1938,1999-03-28
+WM-0030,North York,Cast Iron,150,1938,2003-08-12
+WM-0030,North York,Cast Iron,150,1938,2014-06-01
+WM-0030,North York,Cast Iron,150,1938,2015-06-20
+WM-0030,North York,Cast Iron,150,1938,2016-06-07
+WM-0030,North York,Cast Iron,150,1938,2016-07-24
+WM-0030,North York,Cast Iron,150,1938,2020-08-20
+WM-0030,North York,Cast Iron,150,1938,2023-02-06
+WM-0031,Etobicoke York,PVC,400,1989,2004-08-30
+WM-0031,Etobicoke York,PVC,400,1989,2010-02-12
+WM-0031,Etobicoke York,PVC,400,1989,2024-01-19
+WM-0032,Etobicoke York,Ductile Iron,600,1991,2009-02-01
+WM-0032,Etobicoke York,Ductile Iron,600,1991,2011-02-07
+WM-0033,Scarborough,Cast Iron,250,1970,2008-07-10
+WM-0033,Scarborough,Cast Iron,250,1970,2009-01-11
+WM-0033,Scarborough,Cast Iron,250,1970,2018-10-11
+WM-0033,Scarborough,Cast Iron,250,1970,2020-09-23
+WM-0034,Etobicoke York,Cast Iron,400,1964,2000-01-16
+WM-0034,Etobicoke York,Cast Iron,400,1964,2005-08-24
+WM-0034,Etobicoke York,Cast Iron,400,1964,2007-05-29
+WM-0034,Etobicoke York,Cast Iron,400,1964,2023-09-30
+WM-0034,Etobicoke York,Cast Iron,400,1964,2024-12-06
+WM-0034,Etobicoke York,Cast Iron,400,1964,2026-04-30
+WM-0035,North York,Cast Iron,300,1935,1996-01-20
+WM-0035,North York,Cast Iron,300,1935,2008-07-03
+WM-0035,North York,Cast Iron,300,1935,2017-04-08
+WM-0035,North York,Cast Iron,300,1935,2018-05-03
+WM-0035,North York,Cast Iron,300,1935,2018-07-27
+WM-0035,North York,Cast Iron,300,1935,2022-04-10
+WM-0035,North York,Cast Iron,300,1935,2026-02-18
+WM-0036,North York,Cast Iron,600,1931,2007-08-22
+WM-0036,North York,Cast Iron,600,1931,2015-10-04
+WM-0036,North York,Cast Iron,600,1931,2017-02-03
+WM-0036,North York,Cast Iron,600,1931,2019-11-26
+WM-0037,North York,Ductile Iron,400,1981,2020-04-12
+WM-0038,Etobicoke York,Ductile Iron,150,1982,1995-01-08
+WM-0038,Etobicoke York,Ductile Iron,150,1982,2017-05-29
+WM-0039,Scarborough,Cast Iron,400,1953,1998-01-25
+WM-0039,Scarborough,Cast Iron,400,1953,2001-10-12
+WM-0039,Scarborough,Cast Iron,400,1953,2003-04-16
+WM-0039,Scarborough,Cast Iron,400,1953,2019-04-03
+WM-0039,Scarborough,Cast Iron,400,1953,2025-03-12
+WM-0040,Scarborough,Ductile Iron,300,1974,1997-02-27
+WM-0041,Scarborough,Cast Iron,150,1975,2001-05-22
+WM-0041,Scarborough,Cast Iron,150,1975,2006-11-21
+WM-0041,Scarborough,Cast Iron,150,1975,2011-09-22
+WM-0041,Scarborough,Cast Iron,150,1975,2021-05-27
+WM-0041,Scarborough,Cast Iron,150,1975,2023-10-27
+WM-0042,North York,Concrete,200,1965,2022-02-15
+WM-0042,North York,Concrete,200,1965,2023-10-04
+WM-0042,North York,Concrete,200,1965,2025-11-21
+WM-0043,Etobicoke York,Cast Iron,300,1946,2001-08-14
+WM-0043,Etobicoke York,Cast Iron,300,1946,2007-06-17
+WM-0043,Etobicoke York,Cast Iron,300,1946,2021-07-29
+WM-0043,Etobicoke York,Cast Iron,300,1946,2022-02-14
+WM-0043,Etobicoke York,Cast Iron,300,1946,2023-03-27
+WM-0043,Etobicoke York,Cast Iron,300,1946,2023-07-19
+WM-0044,North York,Cast Iron,250,1954,2006-02-23
+WM-0044,North York,Cast Iron,250,1954,2008-09-08
+WM-0044,North York,Cast Iron,250,1954,2021-10-05
+WM-0045,Etobicoke York,Ductile Iron,250,1990,2017-06-28
+WM-0046,Scarborough,Ductile Iron,600,1990,2008-12-21
+WM-0046,Scarborough,Ductile Iron,600,1990,2025-08-24
+WM-0047,Etobicoke York,Cast Iron,200,1941,1998-03-14
+WM-0047,Etobicoke York,Cast Iron,200,1941,2009-12-07
+WM-0047,Etobicoke York,Cast Iron,200,1941,2016-11-18
+WM-0048,Scarborough,Ductile Iron,150,1997,2009-01-23
+WM-0049,North York,Cast Iron,300,1970,1999-11-19
+WM-0049,North York,Cast Iron,300,1970,2010-06-29
+WM-0049,North York,Cast Iron,300,1970,2015-05-15
+WM-0049,North York,Cast Iron,300,1970,2018-08-04
+WM-0049,North York,Cast Iron,300,1970,2018-10-01
+WM-0049,North York,Cast Iron,300,1970,2019-12-12
+WM-0049,North York,Cast Iron,300,1970,2020-06-28
+WM-0050,Scarborough,Ductile Iron,600,1972,2007-12-30
+WM-0050,Scarborough,Ductile Iron,600,1972,2022-05-24
+WM-0051,Toronto & East York,Cast Iron,250,1969,2004-03-28
+WM-0051,Toronto & East York,Cast Iron,250,1969,2010-12-07
+WM-0051,Toronto & East York,Cast Iron,250,1969,2018-08-10
+WM-0051,Toronto & East York,Cast Iron,250,1969,2020-08-21
+WM-0052,Scarborough,Ductile Iron,250,1965,2001-03-13
+WM-0052,Scarborough,Ductile Iron,250,1965,2005-06-25
+WM-0053,Scarborough,Ductile Iron,600,1993,2019-02-14
+WM-0053,Scarborough,Ductile Iron,600,1993,2022-10-27
+WM-0054,North York,Ductile Iron,400,1983,1996-06-10
+WM-0054,North York,Ductile Iron,400,1983,2011-11-06
+WM-0054,North York,Ductile Iron,400,1983,2013-06-11
+WM-0055,North York,Ductile Iron,200,1979,2011-07-26
+WM-0055,North York,Ductile Iron,200,1979,2025-10-04
+WM-0056,Etobicoke York,Ductile Iron,600,1977,2007-07-28
+WM-0056,Etobicoke York,Ductile Iron,600,1977,2014-08-16
+WM-0057,North York,Cast Iron,150,1969,2005-11-05
+WM-0057,North York,Cast Iron,150,1969,2013-05-14
+WM-0057,North York,Cast Iron,150,1969,2019-05-17
+WM-0057,North York,Cast Iron,150,1969,2021-05-12
+WM-0057,North York,Cast Iron,150,1969,2021-12-19
+WM-0057,North York,Cast Iron,150,1969,2023-11-07
+WM-0058,North York,Concrete,300,1957,2002-09-01
+WM-0058,North York,Concrete,300,1957,2013-05-15
+WM-0059,Scarborough,Concrete,400,1978,2003-09-05
+WM-0059,Scarborough,Concrete,400,1978,2012-04-22
+WM-0059,Scarborough,Concrete,400,1978,2012-11-06
+WM-0059,Scarborough,Concrete,400,1978,2024-05-02
+WM-0060,Toronto & East York,Ductile Iron,600,1980,2000-12-05
+WM-0061,Toronto & East York,Ductile Iron,300,1982,2000-10-09
+WM-0061,Toronto & East York,Ductile Iron,300,1982,2002-02-18
+WM-0061,Toronto & East York,Ductile Iron,300,1982,2009-02-08
+WM-0062,North York,Cast Iron,600,1949,1999-07-02
+WM-0062,North York,Cast Iron,600,1949,2003-06-08
+WM-0062,North York,Cast Iron,600,1949,2005-09-03
+WM-0062,North York,Cast Iron,600,1949,2009-06-26
+WM-0062,North York,Cast Iron,600,1949,2011-12-21
+WM-0062,North York,Cast Iron,600,1949,2013-05-28
+WM-0063,Toronto & East York,Cast Iron,400,1974,2013-09-16
+WM-0063,Toronto & East York,Cast Iron,400,1974,2016-05-05
+WM-0063,Toronto & East York,Cast Iron,400,1974,2023-09-28
+WM-0063,Toronto & East York,Cast Iron,400,1974,2025-02-22
+WM-0064,Scarborough,PVC,400,2011,2023-02-18
+WM-0065,North York,Ductile Iron,300,1982,2013-08-16
+WM-0066,Toronto & East York,PVC,200,2014,2026-03-25
+WM-0067,Etobicoke York,Concrete,400,1987,2012-05-12
+WM-0067,Etobicoke York,Concrete,400,1987,2023-06-04
+WM-0068,North York,Cast Iron,250,1949,2005-08-05
+WM-0068,North York,Cast Iron,250,1949,2009-05-12
+WM-0068,North York,Cast Iron,250,1949,2010-12-07
+WM-0068,North York,Cast Iron,250,1949,2020-09-24
+WM-0068,North York,Cast Iron,250,1949,2020-12-14
+WM-0069,Toronto & East York,Cast Iron,300,1930,2005-02-27
+WM-0069,Toronto & East York,Cast Iron,300,1930,2010-01-24
+WM-0069,Toronto & East York,Cast Iron,300,1930,2018-03-29
+WM-0069,Toronto & East York,Cast Iron,300,1930,2018-04-13
+WM-0069,Toronto & East York,Cast Iron,300,1930,2020-10-14
+WM-0069,Toronto & East York,Cast Iron,300,1930,2021-06-05
+WM-0069,Toronto & East York,Cast Iron,300,1930,2025-04-19
+WM-0069,Toronto & East York,Cast Iron,300,1930,2026-05-31
+WM-0070,Etobicoke York,Ductile Iron,200,1980,1996-11-15
+WM-0070,Etobicoke York,Ductile Iron,200,1980,2006-11-21
+WM-0071,North York,Ductile Iron,250,1981,1996-11-16
+WM-0071,North York,Ductile Iron,250,1981,2016-07-14
+WM-0071,North York,Ductile Iron,250,1981,2019-03-31
+WM-0072,Scarborough,Cast Iron,250,1926,2005-02-14
+WM-0072,Scarborough,Cast Iron,250,1926,2006-08-31
+WM-0072,Scarborough,Cast Iron,250,1926,2010-10-27
+WM-0072,Scarborough,Cast Iron,250,1926,2016-05-06
+WM-0072,Scarborough,Cast Iron,250,1926,2016-10-07
+WM-0072,Scarborough,Cast Iron,250,1926,2022-08-02
+WM-0072,Scarborough,Cast Iron,250,1926,2024-05-12
+WM-0072,Scarborough,Cast Iron,250,1926,2025-02-11
+WM-0073,Scarborough,PVC,400,1992,2006-10-09
+WM-0074,Scarborough,Cast Iron,250,1966,1996-06-22
+WM-0074,Scarborough,Cast Iron,250,1966,2012-02-13
+WM-0074,Scarborough,Cast Iron,250,1966,2014-01-26
+WM-0075,Toronto & East York,Concrete,300,1990,2020-04-17
+WM-0075,Toronto & East York,Concrete,300,1990,2025-08-26
+WM-0076,Scarborough,Ductile Iron,300,1999,2012-04-12
+WM-0077,Scarborough,Cast Iron,150,1940,2009-08-26
+WM-0077,Scarborough,Cast Iron,150,1940,2014-03-08
+WM-0077,Scarborough,Cast Iron,150,1940,2016-03-11
+WM-0077,Scarborough,Cast Iron,150,1940,2018-09-09
+WM-0077,Scarborough,Cast Iron,150,1940,2020-09-11
+WM-0078,Scarborough,Cast Iron,250,1938,1996-04-06
+WM-0078,Scarborough,Cast Iron,250,1938,2007-10-07
+WM-0078,Scarborough,Cast Iron,250,1938,2009-10-09
+WM-0078,Scarborough,Cast Iron,250,1938,2019-07-03
+WM-0078,Scarborough,Cast Iron,250,1938,2021-10-27
+WM-0078,Scarborough,Cast Iron,250,1938,2023-09-25
+WM-0078,Scarborough,Cast Iron,250,1938,2025-04-06
+WM-0079,Etobicoke York,Cast Iron,300,1951,1996-10-30
+WM-0079,Etobicoke York,Cast Iron,300,1951,2012-11-29
+WM-0079,Etobicoke York,Cast Iron,300,1951,2013-09-07
+WM-0079,Etobicoke York,Cast Iron,300,1951,2019-10-06
+WM-0080,Scarborough,Cast Iron,200,1969,2008-09-20
+WM-0080,Scarborough,Cast Iron,200,1969,2013-08-10
+WM-0080,Scarborough,Cast Iron,200,1969,2015-03-03
+WM-0080,Scarborough,Cast Iron,200,1969,2016-06-30
+WM-0081,Toronto & East York,Concrete,250,1985,2006-04-01
+WM-0081,Toronto & East York,Concrete,250,1985,2008-09-24
+WM-0082,North York,Cast Iron,400,1972,2004-11-17
+WM-0082,North York,Cast Iron,400,1972,2007-10-10
+WM-0082,North York,Cast Iron,400,1972,2019-03-26
+WM-0082,North York,Cast Iron,400,1972,2020-05-30
+WM-0082,North York,Cast Iron,400,1972,2025-04-29
+WM-0083,Scarborough,Concrete,250,1962,1996-08-05
+WM-0083,Scarborough,Concrete,250,1962,2007-09-14
+WM-0083,Scarborough,Concrete,250,1962,2015-04-03
+WM-0084,Etobicoke York,Ductile Iron,600,1973,2007-06-16
+WM-0084,Etobicoke York,Ductile Iron,600,1973,2021-02-24
+WM-0084,Etobicoke York,Ductile Iron,600,1973,2021-04-26
+WM-0085,Scarborough,Ductile Iron,250,1993,2008-11-16
+WM-0085,Scarborough,Ductile Iron,250,1993,2024-04-03
+WM-0086,Etobicoke York,Ductile Iron,400,1969,1995-09-13
+WM-0086,Etobicoke York,Ductile Iron,400,1969,2012-03-17
+WM-0087,North York,PVC,150,2004,2021-04-13
+WM-0088,North York,PVC,300,2009,2024-12-16
+WM-0089,Scarborough,PVC,250,2012,2025-12-05
+WM-0090,Etobicoke York,Concrete,600,1963,2003-08-07
+WM-0090,Etobicoke York,Concrete,600,1963,2005-07-28
+WM-0090,Etobicoke York,Concrete,600,1963,2018-07-01
+WM-0091,North York,Ductile Iron,150,1975,2006-10-08
+WM-0092,Etobicoke York,Cast Iron,250,1970,2013-01-27
+WM-0092,Etobicoke York,Cast Iron,250,1970,2019-03-01
+WM-0092,Etobicoke York,Cast Iron,250,1970,2019-07-19
+WM-0092,Etobicoke York,Cast Iron,250,1970,2021-08-01
+WM-0092,Etobicoke York,Cast Iron,250,1970,2024-09-20
+WM-0093,North York,Ductile Iron,200,1999,2021-07-01
+WM-0094,Etobicoke York,Cast Iron,250,1975,2016-11-04
+WM-0094,Etobicoke York,Cast Iron,250,1975,2022-06-09
+WM-0095,Scarborough,Ductile Iron,600,1994,2004-01-20
+WM-0096,Toronto & East York,Ductile Iron,300,1967,1995-04-10
+WM-0096,Toronto & East York,Ductile Iron,300,1967,2011-04-20
+WM-0096,Toronto & East York,Ductile Iron,300,1967,2016-01-13
+WM-0097,North York,Concrete,400,1986,1998-04-25
+WM-0097,North York,Concrete,400,1986,2007-07-19
+WM-0097,North York,Concrete,400,1986,2013-07-13
+WM-0097,North York,Concrete,400,1986,2018-04-10
+WM-0097,North York,Concrete,400,1986,2018-10-16
+WM-0097,North York,Concrete,400,1986,2020-11-01
+WM-0097,North York,Concrete,400,1986,2024-07-18
+WM-0098,North York,Concrete,600,1977,2022-03-16
+WM-0099,Etobicoke York,Ductile Iron,250,1991,1998-10-29
+WM-0100,Toronto & East York,Ductile Iron,600,1983,2019-01-09
+WM-0100,Toronto & East York,Ductile Iron,600,1983,2024-03-12
+WM-0101,Etobicoke York,Ductile Iron,250,1985,2004-09-03
+WM-0102,Etobicoke York,Ductile Iron,300,1999,2006-07-18
+WM-0102,Etobicoke York,Ductile Iron,300,1999,2009-12-23
+WM-0102,Etobicoke York,Ductile Iron,300,1999,2011-02-08
+WM-0102,Etobicoke York,Ductile Iron,300,1999,2019-08-05
+WM-0103,Toronto & East York,PVC,250,1998,2011-01-04
+WM-0104,Toronto & East York,Cast Iron,400,1965,1996-07-22
+WM-0104,Toronto & East York,Cast Iron,400,1965,2008-11-10
+WM-0104,Toronto & East York,Cast Iron,400,1965,2019-09-18
+WM-0104,Toronto & East York,Cast Iron,400,1965,2021-11-08
+WM-0105,Toronto & East York,Cast Iron,300,1932,2003-06-24
+WM-0105,Toronto & East York,Cast Iron,300,1932,2008-04-07
+WM-0105,Toronto & East York,Cast Iron,300,1932,2011-12-27
+WM-0105,Toronto & East York,Cast Iron,300,1932,2013-02-25
+WM-0105,Toronto & East York,Cast Iron,300,1932,2013-07-31
+WM-0105,Toronto & East York,Cast Iron,300,1932,2013-11-11
+WM-0105,Toronto & East York,Cast Iron,300,1932,2019-08-10
+WM-0105,Toronto & East York,Cast Iron,300,1932,2024-12-01
+WM-0106,North York,Cast Iron,400,1963,1999-11-16
+WM-0106,North York,Cast Iron,400,1963,2002-10-17
+WM-0106,North York,Cast Iron,400,1963,2020-08-05
+WM-0106,North York,Cast Iron,400,1963,2021-03-23
+WM-0107,Toronto & East York,Cast Iron,400,1975,2016-06-14
+WM-0107,Toronto & East York,Cast Iron,400,1975,2018-06-26
+WM-0107,Toronto & East York,Cast Iron,400,1975,2020-02-09
+WM-0107,Toronto & East York,Cast Iron,400,1975,2022-09-30
+WM-0108,North York,Ductile Iron,250,1995,2006-04-23
+WM-0108,North York,Ductile Iron,250,1995,2018-07-31
+WM-0109,Toronto & East York,Ductile Iron,200,1985,2004-01-08
+WM-0109,Toronto & East York,Ductile Iron,200,1985,2004-11-18
+WM-0109,Toronto & East York,Ductile Iron,200,1985,2020-08-31
+WM-0110,Scarborough,PVC,300,2009,2026-03-24
+WM-0111,North York,Ductile Iron,200,1967,2021-03-14
+WM-0112,Toronto & East York,Cast Iron,150,1954,2003-06-30
+WM-0112,Toronto & East York,Cast Iron,150,1954,2011-10-30
+WM-0112,Toronto & East York,Cast Iron,150,1954,2013-07-03
+WM-0112,Toronto & East York,Cast Iron,150,1954,2018-05-10
+WM-0112,Toronto & East York,Cast Iron,150,1954,2020-01-08
+WM-0113,Scarborough,Cast Iron,300,1969,2010-12-16
+WM-0113,Scarborough,Cast Iron,300,1969,2023-02-02
+WM-0113,Scarborough,Cast Iron,300,1969,2023-04-02
+WM-0114,Scarborough,Ductile Iron,400,1996,2001-05-03
+WM-0115,Etobicoke York,Cast Iron,250,1968,2001-03-14
+WM-0115,Etobicoke York,Cast Iron,250,1968,2012-07-06
+WM-0115,Etobicoke York,Cast Iron,250,1968,2012-10-14
+WM-0115,Etobicoke York,Cast Iron,250,1968,2017-10-29
+WM-0115,Etobicoke York,Cast Iron,250,1968,2019-04-30
+WM-0115,Etobicoke York,Cast Iron,250,1968,2023-07-22
+WM-0116,Etobicoke York,Cast Iron,150,1975,2003-02-25
+WM-0116,Etobicoke York,Cast Iron,150,1975,2008-04-24
+WM-0116,Etobicoke York,Cast Iron,150,1975,2010-10-22
+WM-0116,Etobicoke York,Cast Iron,150,1975,2015-03-05
+WM-0117,North York,Cast Iron,400,1930,1996-03-13
+WM-0117,North York,Cast Iron,400,1930,2003-01-21
+WM-0117,North York,Cast Iron,400,1930,2006-08-06
+WM-0117,North York,Cast Iron,400,1930,2007-01-14
+WM-0117,North York,Cast Iron,400,1930,2007-01-30
+WM-0117,North York,Cast Iron,400,1930,2013-04-10
+WM-0117,North York,Cast Iron,400,1930,2024-06-21
+WM-0118,Toronto & East York,Concrete,200,1984,2000-01-26
+WM-0119,Scarborough,Concrete,600,1969,2001-07-22
+WM-0119,Scarborough,Concrete,600,1969,2008-08-04
+WM-0119,Scarborough,Concrete,600,1969,2013-02-25
+WM-0119,Scarborough,Concrete,600,1969,2023-02-11
+WM-0119,Scarborough,Concrete,600,1969,2026-05-26
+WM-0120,Toronto & East York,Ductile Iron,600,1983,2001-06-07
+WM-0121,Toronto & East York,Cast Iron,600,1961,2020-07-26
+WM-0121,Toronto & East York,Cast Iron,600,1961,2021-04-19
+WM-0121,Toronto & East York,Cast Iron,600,1961,2022-08-22
+WM-0121,Toronto & East York,Cast Iron,600,1961,2024-03-31
+WM-0121,Toronto & East York,Cast Iron,600,1961,2024-06-03
+WM-0122,North York,Ductile Iron,200,1987,2012-06-19
+WM-0123,Scarborough,Ductile Iron,600,1973,1995-05-19
+WM-0123,Scarborough,Ductile Iron,600,1973,1995-06-21
+WM-0123,Scarborough,Ductile Iron,600,1973,2018-01-26
+WM-0124,Scarborough,PVC,250,1990,2002-05-04
+WM-0124,Scarborough,PVC,250,1990,2005-01-11
+WM-0125,North York,Cast Iron,250,1959,2007-02-19
+WM-0125,North York,Cast Iron,250,1959,2022-08-01
+WM-0126,Toronto & East York,Concrete,600,1968,2021-12-21
+WM-0126,Toronto & East York,Concrete,600,1968,2023-07-04
+WM-0127,Toronto & East York,Concrete,200,1959,2010-07-15
+WM-0127,Toronto & East York,Concrete,200,1959,2021-12-24
+WM-0127,Toronto & East York,Concrete,200,1959,2025-09-09
+WM-0127,Toronto & East York,Concrete,200,1959,2025-12-21
+WM-0128,Toronto & East York,Cast Iron,150,1959,2013-02-04
+WM-0128,Toronto & East York,Cast Iron,150,1959,2018-10-17
+WM-0128,Toronto & East York,Cast Iron,150,1959,2018-10-21
+WM-0129,Toronto & East York,PVC,150,2008,2020-03-14
+WM-0130,Scarborough,Concrete,600,1964,1999-07-19
+WM-0130,Scarborough,Concrete,600,1964,2022-06-06
+WM-0131,Scarborough,Ductile Iron,200,1972,1996-11-29
+WM-0131,Scarborough,Ductile Iron,200,1972,2026-04-01
+WM-0132,North York,PVC,300,1993,2008-03-03
+WM-0133,Toronto & East York,Ductile Iron,300,1974,2011-09-21
+WM-0134,Scarborough,Cast Iron,200,1948,2012-10-11
+WM-0134,Scarborough,Cast Iron,200,1948,2023-03-01
+WM-0134,Scarborough,Cast Iron,200,1948,2025-04-26
+WM-0135,Etobicoke York,Concrete,400,1973,1999-05-31
+WM-0135,Etobicoke York,Concrete,400,1973,2007-10-03
+WM-0135,Etobicoke York,Concrete,400,1973,2025-04-14
+WM-0135,Etobicoke York,Concrete,400,1973,2025-09-17
+WM-0136,Toronto & East York,Cast Iron,600,1938,1998-11-21
+WM-0136,Toronto & East York,Cast Iron,600,1938,2009-07-25
+WM-0136,Toronto & East York,Cast Iron,600,1938,2017-12-21
+WM-0136,Toronto & East York,Cast Iron,600,1938,2025-10-10
+WM-0136,Toronto & East York,Cast Iron,600,1938,2026-03-03
+WM-0137,North York,Cast Iron,400,1973,2003-03-25
+WM-0137,North York,Cast Iron,400,1973,2009-05-31
+WM-0137,North York,Cast Iron,400,1973,2023-06-28
+WM-0137,North York,Cast Iron,400,1973,2024-03-11
+WM-0138,Etobicoke York,Cast Iron,200,1934,2001-09-12
+WM-0138,Etobicoke York,Cast Iron,200,1934,2002-08-09
+WM-0138,Etobicoke York,Cast Iron,200,1934,2010-04-24
+WM-0138,Etobicoke York,Cast Iron,200,1934,2015-06-01
+WM-0138,Etobicoke York,Cast Iron,200,1934,2021-08-07
+WM-0138,Etobicoke York,Cast Iron,200,1934,2021-11-01
+WM-0138,Etobicoke York,Cast Iron,200,1934,2023-06-01
+WM-0139,Scarborough,Cast Iron,150,1941,1999-07-25
+WM-0139,Scarborough,Cast Iron,150,1941,2001-11-08
+WM-0139,Scarborough,Cast Iron,150,1941,2005-12-09
+WM-0139,Scarborough,Cast Iron,150,1941,2010-06-05
+WM-0139,Scarborough,Cast Iron,150,1941,2012-11-30
+WM-0139,Scarborough,Cast Iron,150,1941,2013-01-07
+WM-0139,Scarborough,Cast Iron,150,1941,2016-10-22
+WM-0140,Etobicoke York,PVC,250,2018,2024-03-27
